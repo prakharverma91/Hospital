@@ -1,7 +1,7 @@
 # Hospital
 
 
-configura the config.file.json=D:\\SpringBoot\\Hospital\\hospitals.json
+configure the config.file.json=D:\\SpringBoot\\Hospital\\hospitals.json
 path before use his service
 
 
